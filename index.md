@@ -1,6 +1,6 @@
 ------
 
-Hi
+Hi! - index
 ======
 
 {% assign doclist = site.pages | sort: 'url' -%}
@@ -9,4 +9,4 @@ Hi
     {%- if doc.name contains '.md' or doc.name contains '.html' -%}
         * [{{ doc.url -}}]({%- link {{ site.baseurl -}}{{ doc.url -}} -%})    
     {%- endif -%}
-{%- endfor %}
+{%- endfor -%}
