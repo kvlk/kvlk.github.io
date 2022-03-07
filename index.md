@@ -1,7 +1,7 @@
 ------
 
-Hi! - index
-======
+Hi 2\! \- index
+===
 
 {% assign doclist = site.pages | sort: 'url' -%}
 
