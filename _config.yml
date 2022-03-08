@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: My GH Pages
 description: My GH Pages site
+markdown: kramdown
