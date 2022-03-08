@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
 title: My GH Pages
 description: My GH Pages site
+theme: jekyll-theme-cayman
 markdown: kramdown
+encoding: UTF-8
